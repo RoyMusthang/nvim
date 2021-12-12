@@ -23,7 +23,7 @@ set termguicolors
 set mouse=a
 
 set inccommand=split
-set clipboard=unnamed
+set clipboard=unnamedplus
 
 set expandtab
 set shiftwidth=2
